@@ -6,6 +6,6 @@ from scipy.interpolate import interp1d
 import pandas as pd 
 import plotly.express as px
 import numpy as np 
-
+![](newplot (1).png)
 Dataset :-
 https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
